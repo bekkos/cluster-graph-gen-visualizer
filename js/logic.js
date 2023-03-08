@@ -9,8 +9,8 @@ const DRAW_HEIGHT_MAX = innerHeight-150;
 
 var _GRAPH;
 
-var SIZE = 100;
-var DISTANCE = 300;
+var SIZE = 250;
+var DISTANCE = 400;
 
 var mouseNode;
 
